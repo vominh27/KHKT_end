@@ -1,2 +1,2 @@
-# KHKT_end
-qminhnhandang
+# KHKT_endCode
+Đây là đoạn code cuối
